@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HomeWorks</string>
+    <string name="addr">Hà Nội</string>
+
+    <string name="hoVaTen">Họ Tên: Naruto</string>
+    <string name="truong">Trường: Konoha school</string>
+    <string name="namSinh">Năm sinh: 2001</string>
+    <string name="gioiTinh">Giới tính: Nam</string>
+
+    <string name="hoVaTen2">Họ Tên: sasuke</string>
+    <string name="truong2">Trường: Konoha school</string>
+    <string name="namSinh2">Năm sinh: 2001</string>
+    <string name="gioiTinh2">Giới tính: Nam</string>
+
+    <string name="hoVaTen3">Họ Tên: Hinata</string>
+    <string name="truong3">Trường: Konoha school</string>
+    <string name="namSinh3">Năm sinh: 2002</string>
+    <string name="gioiTinh3">Giới tính: Nữ</string>
+
+
+</resources>
